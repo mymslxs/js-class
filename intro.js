@@ -2,4 +2,8 @@
 var name  =  'sdklfj';
 const address = 'tinkune';
 name = 'aslkdjf';
-address = 'sdlkjf';
+// address = 'sdlkjf';
+name = 3333;
+name = true;
+
+// JAVASCRIPT is loosely typed programming
