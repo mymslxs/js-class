@@ -21,3 +21,10 @@
 // git add .
 // git commit -m 'commit message'
 // git push orgin master
+
+// git clone <remote url>
+// it will clone repository from remote address
+
+// 
+
+
